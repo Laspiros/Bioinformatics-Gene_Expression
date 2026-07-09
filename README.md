@@ -16,5 +16,7 @@ This project maps the transcriptomic landscape of the Saccharomyces cerevisiae c
 * **Techniques:** PCA, K-Means, Hierarchical Clustering, PAM, Gaussian Mixture Models (GMM)
 
 ## Files
-* `analysis_notebook.ipynb`: The main Kaggle notebook containing the code and visualizations.
-* `phase_5_checkpoint_leaders.csv`: The final extracted list of the 7 elite target genes.
+* assets
+* data
+* scripts
+* README
